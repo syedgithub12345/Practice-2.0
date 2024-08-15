@@ -18,7 +18,7 @@ public class hashmap {
     }
 
     public static void main(String[] args) {
-        main main = new main();
+        hashmap main = new hashmap();
         int[] nums = { 3, 4, 2, 1, 43, 5, 9 };
         System.out.println(main.divideArray(nums));
     }
